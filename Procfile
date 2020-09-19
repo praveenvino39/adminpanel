@@ -1,1 +1,1 @@
-web: gunicorn ecommerce.wsgi --preload --workers 1
+web: gunicorn casefactory.wsgi --preload --workers 1
